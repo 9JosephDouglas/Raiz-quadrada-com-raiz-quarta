@@ -1,0 +1,12 @@
+import math 
+# Solicita ao usuário que digite os valores
+num1 = float(input("Digite o primeiro valor: ")) 
+
+
+# Calcula a soma dos dois valores
+raiz_quadrada = num1**0.5  
+raiz_quarta = math.pow(num1,1/4)
+
+# Exibe o resultado da soma
+print(f"A raiz quadrada de {num1} é {raiz_quadrada}") 
+print(f"A raiz quarta de {num1} é {raiz_quarta}")
