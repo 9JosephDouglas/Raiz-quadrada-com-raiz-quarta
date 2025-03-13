@@ -1,4 +1,4 @@
-# Documentação do Código
+# Documentação do projeto de raiz quadrada com raiz quarta
 
 ## Descrição
 
